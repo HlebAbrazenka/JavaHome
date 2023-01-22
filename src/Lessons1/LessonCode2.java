@@ -2,13 +2,13 @@ package Lessons1;
 
 public class LessonCode2 {
     public static void main(String[] args) {
-        int a = 10;
+        int a = 9;
         int b = 2;
-        int c = 4;
+        int c = 3;
 
-        double result = a / (double) b;
+        double result = a /(double) b;
 
-        int result2 = b*c;
+        int result2 = c / b;
 
         System.out.println(result);
 
